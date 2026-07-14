@@ -6,13 +6,13 @@
 
 Software Engineer Building Product-Oriented Systems Across Python, TypeScript and Unity.
 
-<!--
+
 <p>
   <a href="https://mohitbagri-portfolio.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
--->
+
 
 <p>
   <img src="https://img.shields.io/badge/Python-2F81F7?style=flat-square&logo=python&logoColor=white" />
