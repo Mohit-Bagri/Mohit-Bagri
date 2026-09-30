@@ -8,7 +8,7 @@ Software Engineer Building Product-Oriented Systems Across Python, TypeScript an
 
 
 <p>
-  <a href="https://mohitbagri-portfolio.vercel.app">
+  <a href="https://mohitbagri.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
